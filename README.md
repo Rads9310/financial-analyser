@@ -206,7 +206,7 @@ To analyze a different time period, change the period parameter:
 **Radhika S**
 
 - GitHub: [github.com/Rads9310](https://github.com/Rads9310)
-- LinkedIn: [linkedin.com/in/radhika-s](https://linkedin.com/in/radhika-s)
+
 
 ---
 
