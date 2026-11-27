@@ -163,8 +163,8 @@ The chart shows three lines:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rads9310/financial-analyzer.git
-   cd financial-analyzer
+   git clone https://github.com/Rads9310/financial-analyser.git
+   cd financial-analyser
 
 2. Install dependencies:
    ```bash
@@ -184,15 +184,15 @@ The chart shows three lines:
 
 ---
 
-# 🔧 Customization
+# 🔧 Customisation
 
-To analyze a different stock, change the symbol variable in analyser.py:
+To analyse a different stock, change the symbol variable in analyser.py:
 - symbol = 'AMZN' # Amazon
 - symbol = 'GOOGL' # Google
 - symbol = 'TSLA' # Tesla
 - symbol = 'MSFT' # Microsoft
 
-To analyze a different time period, change the period parameter:
+To analyse a different time period, change the period parameter:
 - data = stock.history(period="1mo") # 1 month
 - data = stock.history(period="3mo") # 3 months
 - data = stock.history(period="6mo") # 6 months
@@ -214,7 +214,7 @@ To analyze a different time period, change the period parameter:
 
 - [yfinance](https://github.com/ranaroussi/yfinance) for providing stock data
 - [pandas](https://pandas.pydata.org/) for data processing
-- [matplotlib](https://matplotlib.org/) for visualization
+- [matplotlib](https://matplotlib.org/) for visualisation
 
 ---
 
